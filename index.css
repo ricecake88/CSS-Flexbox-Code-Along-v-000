@@ -45,3 +45,7 @@ footer {
 .setWidth {
   flex: 100px;
 }
+
+.test {
+  assign-self: flex-end;
+}
